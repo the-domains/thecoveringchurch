@@ -1,0 +1,23 @@
+name: TheCoveringChurch
+favicon: null
+layout_spectrum: 0.13263217126950622
+typography_spectrum: 0.12272433540783823
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.4778188623022288
+  lightness: 0.7349475480150431
+  saturation: 0.7658923771232367
+  rhythmicContrast: 0.5544064731802791
+purpose: []
